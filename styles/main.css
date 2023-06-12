@@ -1,0 +1,29 @@
+.home-link {
+	cursor: pointer;
+}
+.hudson {
+	font-family: hudsonNY;
+}
+
+a.navbar-brand {
+	font-size:18pt;
+}
+
+a.nav-link.active {
+	background-color: #001227 !important;
+	color: white !important;
+}
+
+a.nav-link {
+	color: #001227 !important;
+}
+
+.btn.btn-primary.mr-1{
+	background-color: #001227 !important;
+	border-color: #001227 !important;
+	color: white !important;
+}
+
+.btn.btn-light.text-primary{
+	color: #001227 !important;
+}
