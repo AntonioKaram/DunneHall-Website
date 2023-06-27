@@ -3,7 +3,7 @@
 - You can find the website at dunnehall.com
 - This website is hosted on dreamhost
 - Now connected to GitHub Actions, pushing to master will push to dreamhost.
-- Created and Maintained by Antonio Karam, Patrick Schlosser, and Will Hoppe
+- Created and Maintained by Antonio Karam, Patrick Schlosser, and Will Hoppe.
 
 ![dunnehall](https://github.com/AntonioKaram/DunneHall-Website/assets/73662395/cf3837f3-5f60-47c9-88b3-57433d01e573)
 
